@@ -1,2 +1,8 @@
 # parallel-programming
-implement parallel programming algorithms
+Implementing parallel programming algorithms. 
+
+### Algorithms 
+
+* Matrix Multiplication 
+* Map-Reduce 
+* Flyod-Warshall 
